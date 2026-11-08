@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+# C / C++
+*.o
+*.exe
+a.out
+# System files
+.DS_Store
+Thumbs.db
+# Secrets
+.env
